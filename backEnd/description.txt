@@ -1,0 +1,1 @@
+dockerDesktopで動かす想定
